@@ -16,9 +16,9 @@ Did you ever want to:
 * Use non-ASCII characters on permalinks?
 * Personalize more your current permalinks?
 
-*i15d WP* is a plugin specifically designed for fulfill this purposes with easiness.<br />
-You just need to activate this plugin and it will be *good-to-go*, no modification to core neither
-template files will be needed.
+*i15d WP* is a plugin specifically designed to fulfill this purposes without having to struggle.<br />
+You just need to activate this plugin and it will be *good-to-go*.<br />
+No modification to the core neither template files will be needed.
 
 == Installation ==
 
@@ -32,31 +32,31 @@ template files will be needed.
 
 **i**nternationalize**d**.
 
-= I don't understand this plugin purpose... Can you explain it a little further? =
+= I don't understand the purpose of this plugin... Could you explain it a little further? =
 
-By default WordPress is really restricted on what characters you can use inside
-you permalinks, *i15d WP* changes the WordPress behavior to be more soft with the
-characters restriction, so you can start using more characters (like non-ASCII characters) 
-on your permalinks without being truncated or deleted.
+WordPress is by default really restrictive on what characters you can use inside your permalinks.<br />
+*i15d WP* changes the WordPress behavior to be less restrictive with the characters, so that you can 
+start using more characters (i.e. non-ASCII characters) on your permalinks without being truncated or deleted.
 
 = Why does WordPress make such a character restriction on permalinks? =
 
-For just one simple thing: **Characters Encodings** (specially multi-byte character encodings).<br />
+For just one simple reason: **Characters Encodings** (specially multi-byte character encodings).<br />
 So, even if the permalinks are similar but with different encoding, Wordpress won't be able to process
 them equally and will, therefore, issue a *404 Not Found* HTTP Error.
 
-= So, this plugin fix this issue? =
+= Does this plugin fix this issue? =
 
-Unfortunately... NO, fixing the encodings issue is a real mess but we will kept and eye on this issue
-in further versions of this plugin.
+Unfortunately... NO.<br />
+Fixing the encodings issue is a really complicated and time-consuming task but we will consider this issue 
+in further versions.
 
 = Why did you develop this plugin? =
 
 This plugin was originally a custom software made for some webmasters of [IDN](http://en.wikipedia.org/wiki/Internationalized_domain_name "Internationalized domain name on Wikipedia")
-Blogs and since maybe someone may find it useful, i release this little work to the public **:-P**.
+Blogs and since maybe someone else might find it useful, I released this little work to the public **:-P**.
 
 = How can i contribute? =
-You can help us by finding and reporting bugs or well by donating to this plugin.
+You can help us by finding and reporting bugs or well donating to the project by following *Donate to this plugin* link.
 
 == Screenshots ==
 

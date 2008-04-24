@@ -1,18 +1,18 @@
 === Plugin Name ===
 Contributors: g30rg3x
 Donate link: http://g30rg3x.com/donate/
-Tags: idn, i15d, permalinks, personalize, i10n
+Tags: IDN, i15d, permalinks, personalize, i18n
 Requires at least: 2.0
 Tested up to: 2.5
 Stable tag: 1.0.1
 
-i15d/i10n Permalinks for WordPress.
+i15d/i18n Permalinks for WordPress.
 
 == Description ==
 
 Did you ever want to:
 
-* Have i10n permalinks?
+* Have i15d/i18n permalinks?
 * Use non-ASCII characters on permalinks?
 * Personalize more your current permalinks?
 
@@ -31,6 +31,10 @@ No modification to the core neither template files will be needed.
 = i15d stands for... =
 
 **i**nternationalize**d**.
+
+= i18n stands for... =
+
+**i**nternationalizatio**n**.
 
 = I don't understand the purpose of this plugin... Could you explain it a little further? =
 

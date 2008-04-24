@@ -2,7 +2,7 @@
 /*
 Plugin Name: i15d WP
 Plugin URI: http://g30rg3x.com/i15d-wp/
-Description: i15d/i10n Permalinks for WordPress.
+Description: i15d/i18n Permalinks for WordPress.
 Version: 1.0.1
 Author: g30rg3_x
 Author URI: http://g30rg3x.com/

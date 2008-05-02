@@ -51,6 +51,9 @@ function i15d_wp_sanitize_title_with_dashes($title) {
 	$title = preg_replace('|-+|', '-', $title);
 	$title = trim($title, '-');
 
+	// Apache On Windows WorkAround
+	$title = preg_replace('/:/', '', $title);
+
 	return $title;
 }
 

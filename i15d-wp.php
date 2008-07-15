@@ -3,7 +3,7 @@
 Plugin Name: i15d WP
 Plugin URI: http://g30rg3x.com/i15d-wp/
 Description: i15d/i18n Permalinks for WordPress.
-Version: 1.0.1
+Version: 1.0.2
 Author: g30rg3_x
 Author URI: http://g30rg3x.com/
 */
@@ -50,6 +50,9 @@ function i15d_wp_sanitize_title_with_dashes($title) {
 	$title = preg_replace('/\s+/', '-', $title);
 	$title = preg_replace('|-+|', '-', $title);
 	$title = trim($title, '-');
+
+	// Apache On Windows WorkAround
+	$title = preg_replace('/:/', '', $title);
 
 	return $title;
 }

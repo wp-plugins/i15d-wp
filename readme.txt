@@ -3,7 +3,7 @@ Contributors: g30rg3x
 Donate link: http://g30rg3x.com/donate/
 Tags: IDN, i15d, permalinks, personalize, i18n
 Requires at least: 2.0
-Tested up to: 2.6
+Tested up to: 2.7
 Stable tag: 1.0.2
 
 i15d/i18n Permalinks for WordPress.
